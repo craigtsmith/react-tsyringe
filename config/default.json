@@ -1,0 +1,12 @@
+{
+  "github": {
+    "hostname": "api.github.com"
+  },
+  "jokes": {
+    "hostname": "official-joke-api.appspot.com"
+  },
+  "features": {
+    "someFeature": false,
+    "anotherFeature": true
+  }
+}
